@@ -1,0 +1,6 @@
+nerd-fonts
+microsoft-edge-stable-bin
+ttf-ms-win11-auto
+apple_cursor
+catppuccin-cursors-mocha
+polybar-git
